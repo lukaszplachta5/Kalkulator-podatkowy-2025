@@ -1,9 +1,14 @@
 # Kalkulator podatkowy 2025
 INFORMACJE OGÓLNE
+
 Kalkulator służy do obliczania opodatkowania wynagrodzeń w 13 wybranych państwach OECD.
+
 Tytuł: Kalkulator Podatkowy 2025
+
 Autor: Łukasz Płachta
+
 Kontakt: lukaszplachta5@gmail.com
+
 Słowa kluczowe: podatki, opodatkowanie wynagrodzeń, porównanie opodatkowania
 
 METODYKA BADANIA
